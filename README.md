@@ -36,7 +36,6 @@ Open .env and update DB_DATABASE with your testing database name. For example:
 ```bash
 DB_DATABASE=testing
 ```
-Open .env and update DB_DATABASE with your testing database name.
 
 ### 6. Generate Application Key
 ```bash
