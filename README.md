@@ -42,9 +42,23 @@ DB_DATABASE=testing
 php artisan key:generate
 ```
 
-### 7. Start the Development Server
+### 7. Run Database Migrations and Seeders
+```bash
+php artisan migrate:fresh --seed
+```
+This command will reset the database, apply migrations, and seed it with initial data.
+
+### 8. Start the Development Server
 ```bash
 php artisan serve
 ```
 
 Your Laravel application should now be running. Open [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser to access it.
+
+## Credentials
+After running the system, please use the following credentials:
+
+**Admin**
+- **Email:** example@email.com  
+- **Password:** Test@123
+
