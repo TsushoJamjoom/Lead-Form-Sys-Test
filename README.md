@@ -59,6 +59,5 @@ Your Laravel application should now be running. Open [http://127.0.0.1:8000](htt
 After running the system, please use the following credentials:
 
 **Admin**
-- **Email:** example@email.com  
+- **Email:** nada_rambu@tjt.com.sa
 - **Password:** Test@123
-
