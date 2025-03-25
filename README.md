@@ -60,4 +60,4 @@ After running the system, please use the following credentials:
 
 **Admin**
 - **Email:** nada_rambu@tjt.com.sa
-- **Password:** Test@123
+- **Password:** Tjt@123
